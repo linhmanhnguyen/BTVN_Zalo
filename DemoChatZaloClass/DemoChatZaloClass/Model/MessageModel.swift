@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Message {
+class Message{
     var id: Int = 0
     var content: String = ""
     var senderID: Int = 0
